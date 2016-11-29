@@ -5,4 +5,4 @@ This python script checks and updates (if needed) the ipadress for the machine i
 you need an account on www.noip.com for this to work.
 
 
-Feel free to use and change.
+Feel free to use and/or modify.
